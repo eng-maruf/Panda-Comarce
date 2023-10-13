@@ -3,7 +3,7 @@
     border-radius:10px;
 }
 .container{
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 .buy-button{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
@@ -43,4 +43,15 @@
 .card{
     border: none;
     box-shadow: 10px 20px 20px gray;
+}
+.email{
+    height: 300px;
+    background-color: #FEEAE9 ;
+    border-radius: 10px;
+}
+#cr-down{
+    margin-top: 100px;
+}
+footer{
+    text-align: center;
 }
