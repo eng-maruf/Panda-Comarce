@@ -20,3 +20,27 @@
 .priceing{
     color: #FF136F;
 }
+.cat1{
+    background-image: linear-gradient(to right, #FF9C35 0%, #FCEF31 100%) ;
+}
+.cat2{
+    background-image: linear-gradient(to right, #FF589B 0%, #FF136F 100%) ;
+}
+.cat3{
+    background-image: linear-gradient(to right, #4289FF 0%, #3F07F8 100%) ;
+}
+.cat1, .cat2, .cat3{
+    padding: 20px 30px;
+    color: white;
+    border-radius: 20px;
+}
+.categories img{
+    width: 100px;
+}
+#shoes p{
+    text-align: justify;
+}
+.card{
+    border: none;
+    box-shadow: 10px 20px 20px gray;
+}
